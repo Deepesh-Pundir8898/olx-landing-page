@@ -1,20 +1,15 @@
 # OLX Landing Page
 
-## Project Description
-
-This project is a recreation of the OLX landing page using HTML and CSS. The goal was to replicate the design and functionality of the original OLX homepage, which is a popular online marketplace for buying and selling goods. This project is purely front-end focused, showcasing skills in HTML structure, CSS styling, and responsive design.
-
 ## Table of Contents
 
 - [Project Description](#project-description)
-- [Table of Contents](#table-of-contents)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+
+
+## Project Description
+
+This project is a recreation of the OLX landing page using HTML and CSS. The goal was to replicate the design and functionality of the original OLX homepage, which is a popular online marketplace for buying and selling goods. This project is purely front-end focused, showcasing skills in HTML structure, CSS styling, and responsive design.
 
 ## Features
 
